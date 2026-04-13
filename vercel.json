@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://blue.sanaeinet.ir/$1" }
+    { "source": "/(.*)", "destination": "https://blu-red.forgreeneye.online:2053/$1" }
   ]
 }
